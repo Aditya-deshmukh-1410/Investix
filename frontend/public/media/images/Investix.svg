@@ -1,0 +1,14 @@
+<!-- investix.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 230 80">
+  <text
+    x="0"
+    y="58"
+    font-family="Inter, system-ui, sans-serif"
+    font-size="48"
+    font-weight="500"
+    letter-spacing="-0.6"
+    fill="#387ED1"
+  >
+    Invest<tspan fill="#16A34A">ix</tspan>
+  </text>
+</svg>
