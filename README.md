@@ -55,3 +55,94 @@ It addresses the challenge of understanding stock portfolio management and finte
 | Dev Tools | Nodemon |
 
 ---
+
+## 📁 File Structure
+
+```
+📦 Investix/
+├─ 📁 backend/
+│ ├─ index.js
+│ ├─ 📁models/
+│ ├─ 📁routes/
+│ ├─ 📁controllers/
+│ └─ package.json
+│
+├─ 📁 dashboard/
+│ ├─ 📁src/
+│ │ ├─ 📁components/
+│ │ ├─ 📁pages/
+│ │ ├─ 📁services/
+│ │ └─ App.js
+│ └─ package.json
+│
+├─ 📁 frontend/
+│ ├─ 📁src/
+│ └─ package.json
+│
+└─ README.md
+```
+
+
+---
+
+## ⚙️ Getting Started
+
+### Prerequisites
+
+- Node.js (v16+ recommended)
+- MongoDB (Local or MongoDB Atlas)
+- npm
+- Git
+
+---
+
+### 1️⃣ Backend Setup
+
+```
+cd backend
+npm install
+npm start
+```
+
+### Create a .env file:
+
+```
+MONGO_URI=your_mongodb_connection_string
+CASHFREE_APP_ID=your_cashfree_app_id
+CASHFREE_SECRET_KEY=your_cashfree_secret_key
+```
+
+### 2️⃣ Dashboard Setup
+
+```
+cd dashboard
+npm install
+npm start
+```
+
+### 2️ Frontend Setup
+```
+cd frontend
+npm install
+npm start
+```
+
+## 🚀 Future Enhancements
+
+- 🔄 Live stock market API integration (Alpha Vantage / Finnhub)
+- 📊 Advanced analytics with technical indicators
+- 🔐 JWT-based authentication
+- ☁️ Cloud deployment (Render + Vercel + MongoDB Atlas)
+
+## 🤝 Connect with Me
+
+Feel free to reach out for feedback, collaborations, or discussions about fintech systems!
+
+LinkedIn: https://www.linkedin.com/in/aditya-deshmukh14/
+
+Twitter: https://x.com/Aadi_deshmukh14
+
+GitHub: https://github.com/Aditya-deshmukh-1410
+
+
+
