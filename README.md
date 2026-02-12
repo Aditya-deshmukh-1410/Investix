@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/React-19-blue" />
   <img src="https://img.shields.io/badge/MUI-7.3.6-purple" />
   <img src="https://img.shields.io/badge/Cashfree-Payment-orange" />
-</p>
+</p>   
 
 # 📈 Investix – Stock Trading & Portfolio Management System
 
