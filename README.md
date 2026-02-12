@@ -32,6 +32,19 @@ It addresses the challenge of understanding stock portfolio management and finte
 
 ---
 
+## 🧠 Key Technical Decisions
+
+- Implemented RESTful architecture for scalable API design.
+- Used Passport.js with session-based authentication for secure login handling.
+- Integrated Cashfree Payment Gateway for secure transaction processing.
+- Adopted Mongoose ODM for structured MongoDB schema modeling.
+- Separated Landing Page, Dashboard, and Backend into modular layers.
+- Used Material UI for consistent fintech-grade UI design.
+- Integrated Chart.js for interactive portfolio and stock data visualization.
+- Environment-based configuration using dotenv for security and deployment readiness.
+
+---
+
 ## 🎥 Project Demo Video
 
 [![Watch the demo](https://img.youtube.com/vi/52eSnVM5234/hqdefault.jpg)](https://youtu.be/52eSnVM5234)
@@ -56,30 +69,64 @@ It addresses the challenge of understanding stock portfolio management and finte
 
 ---
 
-## 📁 File Structure
-
 ```
-📦 Investix/
-├─ 📁 backend/
-│ ├─ index.js
-│ ├─ 📁models/
-│ ├─ 📁routes/
-│ ├─ 📁controllers/
-│ └─ package.json
+🗂️ Investix/
+├── 📁 backend/
+│   ├── index.js
+│   ├── 📁 models/
+│   │   ├── HoldingsModel.js
+│   │   ├── OrdersModel.js
+│   │   ├── PositionsModel.js
+│   │   └── WalletsModel.js
+│   │
+│   ├── 📁 schema/
+│   │   ├── HoldingsSchema.js
+│   │   ├── PositionsSchema.js
+│   │   └── OrdersSchema.js
+│   │
+│   ├── 📁 controllers/
+│   └── package.json
 │
-├─ 📁 dashboard/
-│ ├─ 📁src/
-│ │ ├─ 📁components/
-│ │ ├─ 📁pages/
-│ │ ├─ 📁services/
-│ │ └─ App.js
-│ └─ package.json
+├── 📁 dashboard/
+│   ├── 📁 src/
+│   │   ├── 📁 components/
+│   │   │   ├── BuyActionWindow.css
+│   │   │   ├── BuyActionWindow.js
+│   │   │   ├── Dashboard.js
+│   │   │   ├── DoughnutChart.js
+│   │   │   ├── Funds.js
+│   │   │   ├── GeneralContext.js
+│   │   │   ├── Holdings.js
+│   │   │   ├── Home.js
+│   │   │   ├── Logout.js
+│   │   │   ├── Menu.js
+│   │   │   ├── Orders.js
+│   │   │   ├── Positions.js
+│   │   │   ├── Summary.js
+│   │   │   └── VerticalGraph.js
+│   │   │
+│   │   ├── 📁 data/
+│   │   ├── index.css
+│   │   └── index.js
+│   │
+│   └── package.json
 │
-├─ 📁 frontend/
-│ ├─ 📁src/
-│ └─ package.json
+├── 📁 frontend/
+│   ├── 📁 src/
+│   │   ├── 📁 Landing_page/
+│   │   │   ├── 📁 About/
+│   │   │   ├── 📁 Home/
+│   │   │   ├── 📁 Pricing/
+│   │   │   ├── 📁 Products/
+│   │   │   ├── 📁 Support/
+│   │   │   ├── Footer.js
+│   │   │   ├── Navbar.js
+│   │   │   ├── NotFound.js
+│   │   │   └── OpenAccount.js
+│   │
+│   └── package.json
 │
-└─ README.md
+└── README.md
 ```
 
 
