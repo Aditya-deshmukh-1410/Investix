@@ -201,13 +201,11 @@ npm start
 
 ## 🤝 Connect with Me
 
-Feel free to reach out for feedback, collaborations, or discussions about fintech systems!
+Feel free to reach out for feedback, collaborations, or just to say hi!  
 
-LinkedIn: https://www.linkedin.com/in/aditya-deshmukh14/
-
-Twitter: https://x.com/Aadi_deshmukh14
-
-GitHub: https://github.com/Aditya-deshmukh-1410
+- **LinkedIn:** [Aditya Deshmukh](https://www.linkedin.com/in/aditya-deshmukh14/)
+- **Twitter:** [@Aadi_deshmukh14](https://x.com/Aadi_deshmukh14)
+- **GitHub:** [Aditya-deshmukh-1410](https://github.com/Aditya-deshmukh-1410)  
 
 
 
