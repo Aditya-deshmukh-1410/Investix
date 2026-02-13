@@ -23,11 +23,25 @@ It addresses the challenge of understanding stock portfolio management and finte
 ![Dashboard](./assets/img1.png)
 
 ### 💼 Portfolio & Holdings
-![Portfolio](./screenshots/portfolio.png)
+![Portfolio](./assets/img2.png)
 
 ### 💳 Buy / Sell Interface
-![Buy Sell](./screenshots/buy-sell.png)
+![Buy Sell](./assets/img3.png)
 
+### 💳 Buy / Sell Interface
+![Buy Sell](./assets/img4.png)
+
+### 💳 Buy / Sell Interface
+![Buy Sell](./assets/img5.png)
+
+### 💳 Buy / Sell Interface
+![Buy Sell](./assets/img6.png)
+
+### 💳 Buy / Sell Interface
+![Buy Sell](./assets/img7.png)
+
+### 💳 Buy / Sell Interface
+![Buy Sell](./assets/img8.png)
 ## 🚀 Features
 
 - 🔐 Secure User Registration & Login (Passport.js)
