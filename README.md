@@ -17,6 +17,17 @@ It addresses the challenge of understanding stock portfolio management and finte
 
 ---
 
+## 🖼 Application Preview
+
+### 📊 Landing page Overview
+![Dashboard](./assets/img1.png)
+
+### 💼 Portfolio & Holdings
+![Portfolio](./screenshots/portfolio.png)
+
+### 💳 Buy / Sell Interface
+![Buy Sell](./screenshots/buy-sell.png)
+
 ## 🚀 Features
 
 - 🔐 Secure User Registration & Login (Passport.js)
