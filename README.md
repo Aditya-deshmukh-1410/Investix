@@ -19,28 +19,21 @@ It addresses the challenge of understanding stock portfolio management and finte
 
 ## 🖼 Application Preview
 
-### 📊 Landing page Overview
+### 🌐 Landing page Overview
 ![Dashboard](./assets/img1.png)
-
-### 💼 Portfolio & Holdings
 ![Portfolio](./assets/img2.png)
 
-### 💳 Buy / Sell Interface
+### 📊 Trading Dashboard
 ![Buy Sell](./assets/img3.png)
 
-### 💳 Buy / Sell Interface
+### 💼 Portfolio Management (Orders / Holdings / Positions)
+
 ![Buy Sell](./assets/img4.png)
-
-### 💳 Buy / Sell Interface
 ![Buy Sell](./assets/img5.png)
-
-### 💳 Buy / Sell Interface
 ![Buy Sell](./assets/img6.png)
-
-### 💳 Buy / Sell Interface
 ![Buy Sell](./assets/img7.png)
 
-### 💳 Buy / Sell Interface
+### 💳 Secure Payment Integration (Cashfree)
 ![Buy Sell](./assets/img8.png)
 ## 🚀 Features
 
