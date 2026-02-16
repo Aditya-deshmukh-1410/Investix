@@ -7,7 +7,7 @@
   <img src="https://img.shields.io/badge/Cashfree-Payment-orange" />
 </p>    
  
-# 📈 Investix – Stock Trading & Portfolio Management System
+# 📈 Investix – Stock Trading & Portfolio Management System 
 
 Investix is a **full-stack stock trading simulation platform** inspired by modern fintech dashboards like Zerodha.
 
